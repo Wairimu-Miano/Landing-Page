@@ -1,6 +1,11 @@
 
 img{
   border:1px solid white;
+  border-radius: 8px;
+}
+a{
+  color:white;
+  text-decoration:underline;
 }
 .top{
   background-color:white;
@@ -25,7 +30,7 @@ li{
 }
 .center{
   text-align:center;
-  background-color:white;
+  background-image:image("/home/miano/Documents/Moringa-School-Projects/IndependentProjects/LandingPage/images/image1.jpg")
   width:100%;
   margin:0;
   padding:0;
@@ -40,9 +45,19 @@ h2{
 }
 
 .bottom{
-  background-color:#eda939;
-  color:white;
-  text-indent: 240px;
+  background-color:white;
+  color:black;
+  text-indent: auto;
   text-align: justify;
   margin-top:3px;
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+  width:50%
+}
+.educ{
+  background-color:#a9a9a9;
+  opacity:0.9;
+  padding:0;
+  margin:0;
 }
