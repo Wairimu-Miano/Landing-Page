@@ -6,6 +6,19 @@ img{
   background-color:white;
   border-bottom:3px solid orange;
 }
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding:0;
+  overflow: hidden;
+  background-color:orange;
+  width: 100%;
+}
+li{
+  color:white;
+  float:left;
+  text-indent: 80px;
+}
 .center{
   text-align:center;
   background-color:white;
