@@ -1,24 +1,32 @@
 table,td{
-  border: 2px solid #c94c4c;
+  border: 2px solid #eda939;
   border-collapse:collapse;
+  text-align:center;
 }
 table{
   width:70%;
   margin:20px;
   background-color:white;
-  opacity:0.8;
+  opacity:0.6;
 }
 .talents table{
   width:50%
   float:left;
 }
 body{
-  background-image:url("https://images.unsplash.com/photo-1519751138087-5bf79df62d5b?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fGJhY2tncm91bmQlMjBpbWFnZXN8ZW58MHx8MHw%3D&auto=format&fit=crop&w=500&q=60")
+  background-image:url("https://images.unsplash.com/photo-1487147264018-f937fba0c817?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjF8fGJhY2tncm91bmQlMjBpbWFnZXN8ZW58MHx8MHw%3D&auto=format&fit=crop&w=500&q=60")
+}
+h1{
+  border: 3px solid #eda939;
+  background-color:#eda939;
+  text-align:center;
+  color:white;
 }
 img{
-  float:right;
+  float:left;
   position:sticky;
-  top:0;
+  bottom:0;
+  left: 30px;
   border: 9px solid white;
 }
 @media screen and(min-width:480px) and (max-width:600px){
