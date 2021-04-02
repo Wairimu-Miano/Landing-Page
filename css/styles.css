@@ -15,7 +15,7 @@ ul{
   margin: 0;
   padding:5px;
   overflow: hidden;
-  background-color:#eda939;
+  background-color:#c94c4c;
   width: 100%;
   position:sticky;
   top:30px;
@@ -35,7 +35,7 @@ li{
   margin:0;
   padding:0;
   line-height:2px;
-  border-bottom: 3px solid orange;
+  border-bottom: 3px solid #c94c4c;
   font-size:150%;
   padding-bottom:50px;
   padding-top:50px;
@@ -56,8 +56,12 @@ h2{
   width:50%
 }
 .educ{
-  background-color:#a9a9a9;
+  background-color:#eea29a;
   opacity:0.9;
   padding:0;
   margin:0;
+}
+.work{
+  background-color:#f7cac9;
+  padding-bottom: 10px;
 }
