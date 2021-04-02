@@ -1,7 +1,7 @@
 
 img{
-  border:1px solid white;
-  border-radius: 8px;
+  border:5px solid white;
+  border-radius: 16px;
 }
 a{
   color:white;
@@ -28,9 +28,13 @@ li{
   display:inline;
   text-indent: 100px;
 }
+.header{
+  background-image:url("https://images.unsplash.com/photo-1471286274405-579f8d7132d8?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTh8fGJhY2tncm91bmQlMjBicmlnaHQlMjByZWRkaXNoJTIwb3IlMjBwaW5raXNofGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+  padding:30px;
+}
 .center{
   text-align:center;
-  background-image:image("/home/miano/Documents/Moringa-School-Projects/IndependentProjects/LandingPage/images/image1.jpg")
+  background-image:url("https://images.unsplash.com/photo-1542966336-22953b5f7404?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTZ8fG1hcm9vbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
   width:100%;
   margin:0;
   padding:0;
@@ -39,21 +43,27 @@ li{
   font-size:150%;
   padding-bottom:50px;
   padding-top:50px;
+  color:white;
 }
 h2{
   font-family:"Arial";
+  font-size:80%;
+  padding-top:10px;
+  line-height:30px;
 }
 
 .bottom{
   background-color:white;
-  color:black;
+  color:#50394c;
+  font-weight:bold;
   text-indent: auto;
   text-align: justify;
   margin-top:3px;
+
   display: block;
   margin-left:auto;
   margin-right:auto;
-  width:50%
+  width:70%
 }
 .educ{
   background-color:#eea29a;
