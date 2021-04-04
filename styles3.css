@@ -1,0 +1,19 @@
+
+h1{
+  color:white;
+  background-color: #80ced6;
+}
+body{
+  text-align:center;
+  background-color:#daebe8;
+}
+li{
+  list-style-type:none;
+}
+span{
+  font-weight:bold;
+  font-size:120%;
+}
+.links{
+  border-bottom:5px solid #80ced6;
+}
